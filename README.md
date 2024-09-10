@@ -8,4 +8,5 @@ BIDC: General Task Backbone Network for Brain Imaging via Interpretable Deep Clu
 2. **Run:** </br>
 - After generating the positional encoding template with 'BPE.py', run 'train.py'. (The code for the model module will be open-sourced during the manuscript revision process.)</br>
 
-
+3. **Model:** </br>
+![Example Image](https://github.com/yjy-97/BIDC/blob/main/model.png)
