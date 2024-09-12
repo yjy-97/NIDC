@@ -1,5 +1,5 @@
 ## Introduction
-NIDC: General Task Backbone for Neuroimaging Based on Interpretable Deep Clustering</br>
+NIDC: General Task Backbone for Neuroimaging Analysis via Interpretable Deep Clustering</br>
 
 ## Usage (For the recognition task)</br>
 1. **Data Preprocessing:**</br>
