@@ -6,7 +6,7 @@ NIDC: General Task Backbone for Neuroimaging Analysis via Interpretable Deep Clu
 - After requesting the dataset, data preprocessing is performed using the open-source tools Statistical Parametric Mapping (SPM) and Computational Anatomy Toolbox (CAT12), including skull stripping, tissue segmentation, and image registration.</br>
 
 2. **Run:** </br>
-- After generating the positional encoding template with 'BPE.py', run 'NIDC/train.py'. (The code for the model module will be open-sourced during the manuscript revision process.)</br>
+- After generating the positional encoding template with 'BPE.py', run 'NIDC/train.py'. </br>
 
 3. **Model:** </br>
 ![Example Image](https://github.com/yjy-97/BIDC/blob/main/model.png)
