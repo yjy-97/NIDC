@@ -69,7 +69,7 @@ def main(args):
                                              num_workers=nw,
                                              collate_fn=val_dataset.collate_fn)
 
-    model = coc_base_dim64().to(device)
+    model = NIDC_base_dim64().to(device)
 
     # if args.weights != "":
     #     assert os.path.exists(args.weights), "weights file: '{}' not exist.".format(args.weights)
